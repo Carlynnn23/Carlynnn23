@@ -12,7 +12,7 @@ I'm Mingjue, a digital marketer seeking to transition into data analytics.
 
 **Industries:** (Fashion) e-commerce, retail, FMCG.
 
-**Project experiences:** [Instagram Content Optimization Solution](https://github.com/Carlynnn23/sql-ig-discovery), [End-to-end E-commerce performance Analysis]([https://github.com/Carlynnn23/olist-e-commerce-analysis]), Survey Data Analysis.
+**Project experiences:** [Instagram Content Optimization Solution](https://github.com/Carlynnn23/sql-ig-discovery), [End-to-end E-commerce performance Analysis](https://github.com/Carlynnn23/olist-e-commerce-analysis), Survey Data Analysis.
 
 ---
 
