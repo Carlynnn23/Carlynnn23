@@ -19,7 +19,7 @@ I'm Mingjue, a digital marketer seeking to transition into data analytics.
 ### What I'm Working On
 
 - 🔭 I'm currently working on learning Python through CS50 on Youtube.
-- 🤔 I'm looking for working a junior position in data analyst and/or media analyst.
+- 🤔 I'm looking for working a junior position in data analyst/ media analyst/ insight analyst.
 - 📫Reach me via [LinkedIn](https://linkedin.com/in/mingjue-liu)
 
 ---
