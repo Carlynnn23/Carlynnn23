@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mingjue, a digital marketer building up analytics and AI skillsets.
+I'm Mingjue, a digital marketer building up analytical and AI skillsets.
 
 🇨🇳 China (Born/Raised) | 🇺🇸 U.S. (Bachelor's) | 🇳🇱 Netherlands (Master's)
 
