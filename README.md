@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mingjue, a digital marketer seeking to transition into data analytics.
+I'm Mingjue, a digital marketer building up analytics and AI skillsets.
 
 🇨🇳 China (Born/Raised) | 🇺🇸 U.S. (Bachelor's) | 🇳🇱 Netherlands (Master's)
 
@@ -18,8 +18,8 @@ I'm Mingjue, a digital marketer seeking to transition into data analytics.
 
 ### What I'm Working On
 
-- 🔭 I'm currently working on learning Python through CS50 on Youtube.
-- 🤔 I'm looking for working a junior position in data analyst/ media analyst/ insight analyst.
-- 📫Reach me via [LinkedIn](https://linkedin.com/in/mingjue-liu)
+- 🔭 I'm currently learning Python through CS50 on Youtube.
+- 🤔 I'm looking for opportunities in junior analyst/ martech field.
+- 📫 Reach me via [LinkedIn](https://linkedin.com/in/mingjue-liu)
 
 ---
