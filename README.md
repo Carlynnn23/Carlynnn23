@@ -18,8 +18,8 @@ I'm Mingjue, a digital marketer building up analytical and AI skillsets.
 
 ### What I'm Working On
 
-- 🔭 I'm currently learning Python through CS50 on Youtube.
-- 🤔 I'm looking for opportunities in data-driven roles such as analyst, martech specialist.
+- 🔭 I'm currently looking for full-time/ freelance jobs.
+- 🤔 I'm working on building my personal website .
 - 📫 Reach me via [LinkedIn](https://linkedin.com/in/mingjue-liu)
 
 ---
